@@ -1,0 +1,46 @@
+@charset "UTF-8";
+
+.Logo{
+    background-color: grey;
+    height: 100px;
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.Navegation{
+  background-color: grey;
+  height: 50px;
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+.Banner{
+  background-color: grey;
+  height: 150px;
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.Bar{
+  background-color: grey;
+  width: 30%;
+  float: left;
+  height: 500px;
+}
+
+.Area{
+  background-color: grey;
+  width: 67%;
+  float: right;
+  height: 500px;
+}
+
+.Contenedor{
+     height: 520px;
+}
+
+.Footer{
+  background-color: grey;
+  height: 50px;
+  width: 100%;
+}

@@ -1,0 +1,39 @@
+@charset "UTF-8";
+
+.Logo{
+    background-color: grey;
+    height: 100px;
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.Side{
+  background-color: white;
+  height: 1100px;
+  width: 40%;
+  float: left;
+  margin-bottom: 10px;
+}
+
+.Banner{
+    background-color: grey;
+    height: 250px;
+    width: 60%;
+    float: right;
+    margin-bottom: 20px;
+}
+
+.Area{
+  background-color: grey;
+  height: 800px;
+  width: 60%;
+  float: right;
+  margin-bottom: 10px;
+}
+
+.Footer{
+  background-color: grey;
+  height: 60px;
+  width: 100%;
+  float: left;
+}

@@ -1,0 +1,50 @@
+@charset "UTF-8";
+
+.Logo{
+    background-color: grey;
+    height: 80px;
+    width: 85%;
+    margin-left: 2.5%;
+    margin-right:2.5;
+    margin-bottom: 20px;
+}
+
+.Banner{
+  background-color: grey;
+  height: 150px;
+  width: 85%;
+  margin-left: 2.5%;
+  margin-right:2.5;
+  margin-bottom: 20px;
+}
+
+.Intro{
+  background-color: grey;
+  height: 120px;
+  width: 85%;
+
+  margin-left: 2.5%;
+  margin-right:2.5;
+}
+
+.Box{
+  background-color: grey;
+  height: 250px;
+  width: 25%;
+  float: left;
+  margin: 2.5%;
+}
+
+.Contenedor{
+  height: 250px;
+}
+
+.Footer{
+    background-color:grey;
+    width: 85%;
+    height: 60px;
+    float: left;
+    margin-left: 2.5%;
+    margin-right: 2.5;
+    margin-bottom: 20px;
+}
